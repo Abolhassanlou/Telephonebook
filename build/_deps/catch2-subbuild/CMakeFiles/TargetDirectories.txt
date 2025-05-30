@@ -1,3 +1,0 @@
-/home/hellen/Desktop/telbook-abolhassanlou3/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
-/home/hellen/Desktop/telbook-abolhassanlou3/build/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
-/home/hellen/Desktop/telbook-abolhassanlou3/build/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir

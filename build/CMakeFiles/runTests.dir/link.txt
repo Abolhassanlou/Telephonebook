@@ -1,1 +1,0 @@
-/usr/bin/c++  -pthread CMakeFiles/runTests.dir/test.cpp.o CMakeFiles/runTests.dir/TelephoneBookLogic.cpp.o CMakeFiles/runTests.dir/Contact.cpp.o -o runTests  -lsqlite3 _deps/catch2-build/src/libCatch2Main.a -L/usr/lib/x86_64-linux-gnu -pthread -lwx_gtk3u_core-3.2 -lwx_baseu-3.2 _deps/catch2-build/src/libCatch2.a 
