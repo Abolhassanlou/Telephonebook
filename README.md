@@ -103,6 +103,12 @@ Deleting Bob: Success
 
 ---
 
+## Project Wireframe
+
+Here's a visual representation of the application's design:
+
+![Telephone Book Wireframe](Telephonbookwireframe.png)
+
 ## 📃 License
 
 ## License
