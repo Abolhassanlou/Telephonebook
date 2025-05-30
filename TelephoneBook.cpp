@@ -1,8 +1,5 @@
 #include "TelephoneBook.hpp"
 #include "TelephoneBookLogic.hpp"
-#include "TelephoneBookLogic.hpp"// We MUST include the full definition here
-                                  // because we create an instance of TelephoneBookLogic
-                                  // and call its methods.
 
 #include <wx/msgdlg.h> // For wxMessageBox
 #include <wx/log.h>    // For wxLogMessage and wxLogError

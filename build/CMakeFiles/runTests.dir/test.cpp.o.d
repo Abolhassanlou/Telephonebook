@@ -331,19 +331,4 @@ CMakeFiles/runTests.dir/test.cpp.o: \
  /usr/include/c++/12/bits/allocated_ptr.h \
  /usr/include/c++/12/bits/unique_ptr.h /usr/include/c++/12/bit \
  /usr/include/c++/12/bits/align.h /usr/include/c++/12/bits/fs_dir.h \
- /usr/include/c++/12/bits/fs_ops.h /usr/include/c++/12/regex \
- /usr/include/c++/12/bitset /usr/include/c++/12/stack \
- /usr/include/c++/12/deque /usr/include/c++/12/bits/stl_deque.h \
- /usr/include/c++/12/bits/deque.tcc /usr/include/c++/12/bits/stl_stack.h \
- /usr/include/c++/12/bits/stl_tree.h /usr/include/c++/12/bits/stl_map.h \
- /usr/include/c++/12/bits/regex_constants.h \
- /usr/include/c++/12/bits/regex_error.h \
- /usr/include/c++/12/bits/regex_automaton.h \
- /usr/include/c++/12/bits/regex_automaton.tcc \
- /usr/include/c++/12/bits/regex_scanner.h \
- /usr/include/c++/12/bits/regex_scanner.tcc \
- /usr/include/c++/12/bits/regex_compiler.h \
- /usr/include/c++/12/bits/regex_compiler.tcc \
- /usr/include/c++/12/bits/regex.h /usr/include/c++/12/bits/regex.tcc \
- /usr/include/c++/12/bits/regex_executor.h \
- /usr/include/c++/12/bits/regex_executor.tcc
+ /usr/include/c++/12/bits/fs_ops.h

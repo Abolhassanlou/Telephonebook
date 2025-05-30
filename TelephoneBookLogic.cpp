@@ -1,4 +1,3 @@
-
 #include "TelephoneBookLogic.hpp" // Make sure this is included
 #include <wx/log.h> // Needed for wxLogMessage
 
