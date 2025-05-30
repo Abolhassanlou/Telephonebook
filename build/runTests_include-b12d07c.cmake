@@ -1,0 +1,5 @@
+if(EXISTS "/home/hellen/Desktop/telbook-abolhassanlou3/build/runTests_tests-b12d07c.cmake")
+  include("/home/hellen/Desktop/telbook-abolhassanlou3/build/runTests_tests-b12d07c.cmake")
+else()
+  add_test(runTests_NOT_BUILT-b12d07c runTests_NOT_BUILT-b12d07c)
+endif()
